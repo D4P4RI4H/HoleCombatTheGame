@@ -4151,3 +4151,662 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.09-18.50.40:973][105]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/BP_PlayerRoadRunner_HoleTestAC47DFA44ECFF8EB8229838821806780.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/EndlessRunnerCreator/RoadRunner/Blueprints/BP_PlayerRoadRunner_HoleTest.uasset'
 [2022.07.09-18.50.40:999][105]AssetCheck: New page: Asset Save: BP_PlayerRoadRunner_HoleTest
 [2022.07.09-18.50.41:000][105]LogContentValidation: Display: Validating Blueprint /Game/EndlessRunnerCreator/RoadRunner/Blueprints/BP_PlayerRoadRunner_HoleTest.BP_PlayerRoadRunner_HoleTest
+[2022.07.09-19.03.24:846][672]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.09-19.03.24:861][672]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.09-19.03.24:881][673]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.07.09-19.03.37:606][501]LogContentBrowser: Attempting asset rename: NewFolder -> HoleCombatContent
+[2022.07.09-19.03.37:606][501]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.09-19.04.06:292][901]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.07.09-19.04.06:292][901]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.07.09-19.04.31:901][259]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.09-19.05.13:416][259]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.09-19.05.13:426][259]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.09-19.05.13:438][259]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.09-19.05.13:489][261]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.07.09-19.05.17:424][506]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.07.09-19.05.17:433][506]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.09-19.05.28:257][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HoleCombatContent/NewBlueprint.NewBlueprint
+[2022.07.09-19.05.28:258][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.05.28:618][ 41]LogViewport: Scene viewport resized to 1525x1277, mode Windowed.
+[2022.07.09-19.05.38:740][542]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.09-19.05.38:740][542]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.09-19.05.48:448][ 87]LogContentBrowser: Attempting asset rename: NewBlueprint -> HoleCombatBuilding
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.SKEL_HoleCombatBuilding_C:UserConstructionScript' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.SKEL_HoleCombatBuilding_C' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding_C' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:492][ 87]LogMetaData: Removing '/Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/HoleCombatContent/NewBlueprint.PackageMetaData'
+[2022.07.09-19.05.48:547][ 87]LogSavePackage: Moving output files for package: /Game/HoleCombatContent/HoleCombatBuilding
+[2022.07.09-19.05.48:547][ 87]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/HoleCombatBuildingA62A86644AA739E15DE6BFB05C1F38C4.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/HoleCombatContent/HoleCombatBuilding.uasset'
+[2022.07.09-19.05.48:671][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.07.09-19.05.48:749][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.07.09-19.05.48:827][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.09-19.05.48:837][ 87]AssetCheck: New page: Asset Save: HoleCombatBuilding
+[2022.07.09-19.05.48:837][ 87]LogContentValidation: Display: Validating Blueprint /Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding
+[2022.07.09-19.07.52:673][850]Cmd: DUPLICATE
+[2022.07.09-19.07.52:673][850]Cmd: ACTOR DUPLICATE
+[2022.07.09-19.08.05:676][466]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.09-19.12.26:606][834]LogEditorTransaction: Undo Edit Speed Offset
+[2022.07.09-19.13.40:312][490]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.13.40:321][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.09-19.13.40:322][490]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:13:40 AM)
+[2022.07.09-19.13.40:322][490]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.13.40:331][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008610s)
+[2022.07.09-19.13.40:331][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.008775s)
+[2022.07.09-19.13.40:331][490]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.13.40:331][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.13.40:332][490]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.13.40:332][490]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2022.07.09-19.13.40:430][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.07.09-19.13.40:432][490]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.07.09-19.13.40:433][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.13.40:433][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.13.40:433][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.13.40:433][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.13.40:433][490]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.13.40:433][490]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.13.40:433][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.13.40:433][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.13.40:433][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.13.40:433][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.13.40:433][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.13.40:435][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.13.40:447][490]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.13.40:448][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.13.40:448][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.13.40:448][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.13.40:449][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.07.09-19.13.40:449][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.07.09-19.13.40:450][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.07.09-19.13.40:450][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.07.09-19.13.40:450][490]LogInit: FAudioDevice initialized.
+[2022.07.09-19.13.40:450][490]LogAudio: Display: Audio Device (ID: 32) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.13.40:462][490]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.13.40:463][490]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.13.40
+[2022.07.09-19.13.40:463][490]LogWorld: Bringing up level for play took: 0.001137
+[2022.07.09-19.13.40:465][490]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2022.07.09-19.13.40:489][490]LogScript: Warning: Attempted to access BP_LevelPieceRoadRunner_C_24 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_24 is not valid (pending kill or garbage)
+	BP_SpawnerLevelPieceBase_C /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest:PersistentLevel.SpawnerLevel_0
+	Function /Game/EndlessRunnerCreator/CommonAssets/Blueprints/Spawning/BP_SpawnerLevelPieceBase.BP_SpawnerLevelPieceBase_C:ClearLevel:01A9
+[2022.07.09-19.13.40:489][490]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_LevelPieceRoadRunner_C_24 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_24 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  ClearLevel Function:  Clear Level Blueprint:  BP_SpawnerLevelPieceBase
+[2022.07.09-19.13.40:489][490]LogScript: Warning: Attempted to access BP_LevelPieceRoadRunner_C_25 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_25 is not valid (pending kill or garbage)
+	BP_SpawnerLevelPieceBase_C /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest:PersistentLevel.SpawnerLevel_0
+	Function /Game/EndlessRunnerCreator/CommonAssets/Blueprints/Spawning/BP_SpawnerLevelPieceBase.BP_SpawnerLevelPieceBase_C:ClearLevel:01A9
+[2022.07.09-19.13.40:489][490]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_LevelPieceRoadRunner_C_25 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_25 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  ClearLevel Function:  Clear Level Blueprint:  BP_SpawnerLevelPieceBase
+[2022.07.09-19.13.40:489][490]LogScript: Warning: Attempted to access BP_LevelPieceRoadRunner_C_26 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_26 is not valid (pending kill or garbage)
+	BP_SpawnerLevelPieceBase_C /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest:PersistentLevel.SpawnerLevel_0
+	Function /Game/EndlessRunnerCreator/CommonAssets/Blueprints/Spawning/BP_SpawnerLevelPieceBase.BP_SpawnerLevelPieceBase_C:ClearLevel:01A9
+[2022.07.09-19.13.40:489][490]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_LevelPieceRoadRunner_C_26 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_26 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  ClearLevel Function:  Clear Level Blueprint:  BP_SpawnerLevelPieceBase
+[2022.07.09-19.13.40:489][490]LogScript: Warning: Attempted to access BP_LevelPieceRoadRunner_C_27 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_27 is not valid (pending kill or garbage)
+	BP_SpawnerLevelPieceBase_C /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest:PersistentLevel.SpawnerLevel_0
+	Function /Game/EndlessRunnerCreator/CommonAssets/Blueprints/Spawning/BP_SpawnerLevelPieceBase.BP_SpawnerLevelPieceBase_C:ClearLevel:01A9
+[2022.07.09-19.13.40:489][490]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_LevelPieceRoadRunner_C_27 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_27 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  ClearLevel Function:  Clear Level Blueprint:  BP_SpawnerLevelPieceBase
+[2022.07.09-19.13.40:489][490]LogScript: Warning: Attempted to access BP_LevelPieceRoadRunner_C_0 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_0 is not valid (pending kill or garbage)
+	BP_SpawnerLevelPieceBase_C /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest:PersistentLevel.SpawnerLevel_0
+	Function /Game/EndlessRunnerCreator/CommonAssets/Blueprints/Spawning/BP_SpawnerLevelPieceBase.BP_SpawnerLevelPieceBase_C:ClearLevel:01A9
+[2022.07.09-19.13.40:489][490]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_LevelPieceRoadRunner_C_0 via property CallFunc_Array_Get_Item, but BP_LevelPieceRoadRunner_C_0 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  ClearLevel Function:  Clear Level Blueprint:  BP_SpawnerLevelPieceBase
+[2022.07.09-19.13.40:500][490]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.13.40:500][490]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.13.40:500][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.13.40:500][490]PIE: Server logged in
+[2022.07.09-19.13.40:501][490]PIE: Play in editor total start time 0.181 seconds.
+[2022.07.09-19.13.40:539][490]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.13.43:476][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.13.43:476][661]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.13.43:477][661]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.13.43:478][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.13.43:510][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.13.43:517][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.13.43:597][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.09-19.13.43:597][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.07.09-19.13.43:599][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.07.09-19.13.43:602][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.13.43:606][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.07.09-19.13.43:727][662]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.07.09-19.14.06:696][562]LogSlate: Window 'Message Log' being destroyed
+[2022.07.09-19.14.06:721][562]LogSlate: Window 'Message Log' being destroyed
+[2022.07.09-19.14.14:965][954]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.14.14:970][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.09-19.14.14:970][954]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:14:14 AM)
+[2022.07.09-19.14.14:971][954]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.14.14:978][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007612s)
+[2022.07.09-19.14.14:978][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.007710s)
+[2022.07.09-19.14.14:978][954]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.14.14:978][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.14.14:979][954]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.14.14:980][954]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2022.07.09-19.14.15:070][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.07.09-19.14.15:073][954]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.07.09-19.14.15:073][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.14.15:073][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.14.15:074][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.14.15:074][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.14.15:074][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.14.15:074][954]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.14.15:074][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.14.15:074][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.14.15:074][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.14.15:074][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.14.15:074][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.14.15:076][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.14.15:088][954]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.14.15:088][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.14.15:088][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.14.15:088][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.14.15:089][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.07.09-19.14.15:089][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.07.09-19.14.15:090][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.07.09-19.14.15:090][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.07.09-19.14.15:090][954]LogInit: FAudioDevice initialized.
+[2022.07.09-19.14.15:090][954]LogAudio: Display: Audio Device (ID: 33) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.14.15:100][954]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.14.15:101][954]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.14.15
+[2022.07.09-19.14.15:102][954]LogWorld: Bringing up level for play took: 0.001174
+[2022.07.09-19.14.15:103][954]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2022.07.09-19.14.15:146][954]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.14.15:146][954]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.14.15:146][954]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.14.15:147][954]PIE: Server logged in
+[2022.07.09-19.14.15:147][954]PIE: Play in editor total start time 0.177 seconds.
+[2022.07.09-19.14.15:189][954]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.14.16:266][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.14.16:266][ 10]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.14.16:267][ 10]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.14.16:268][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.14.16:288][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.14.16:295][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.14.16:371][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.14.16:372][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.07.09-19.14.16:373][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.07.09-19.14.16:382][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.07.09-19.14.16:418][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.07.09-19.14.22:018][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.14.22:023][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.09-19.14.22:023][284]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:14:22 AM)
+[2022.07.09-19.14.22:023][284]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.14.22:032][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008990s)
+[2022.07.09-19.14.22:033][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.009157s)
+[2022.07.09-19.14.22:033][284]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.14.22:033][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.14.22:033][284]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.14.22:034][284]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2022.07.09-19.14.22:113][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.07.09-19.14.22:116][284]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.07.09-19.14.22:116][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.14.22:116][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.14.22:116][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.14.22:116][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.14.22:116][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.14.22:116][284]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.14.22:116][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.14.22:116][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.14.22:116][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.14.22:116][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.14.22:116][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.14.22:118][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.14.22:130][284]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.14.22:130][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.14.22:130][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.14.22:130][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.14.22:131][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.07.09-19.14.22:131][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.07.09-19.14.22:132][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.07.09-19.14.22:132][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.07.09-19.14.22:132][284]LogInit: FAudioDevice initialized.
+[2022.07.09-19.14.22:132][284]LogAudio: Display: Audio Device (ID: 34) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.14.22:141][284]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.14.22:143][284]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.14.22
+[2022.07.09-19.14.22:143][284]LogWorld: Bringing up level for play took: 0.001073
+[2022.07.09-19.14.22:144][284]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2022.07.09-19.14.22:190][284]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.14.22:190][284]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.14.22:190][284]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.14.22:190][284]PIE: Server logged in
+[2022.07.09-19.14.22:191][284]PIE: Play in editor total start time 0.168 seconds.
+[2022.07.09-19.14.22:228][284]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.14.26:266][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.14.26:266][517]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.14.26:267][517]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.14.26:267][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.14.26:289][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.14.26:295][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.14.26:375][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.14.26:376][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.07.09-19.14.26:377][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.07.09-19.14.26:385][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.07.09-19.14.26:421][518]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.07.09-19.15.25:356][199]BlueprintLog: New page: Compile HoleCombatBuilding
+[2022.07.09-19.15.25:492][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.07.09-19.15.26:069][218]LogSavePackage: Moving output files for package: /Game/HoleCombatContent/HoleCombatBuilding
+[2022.07.09-19.15.26:069][218]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/HoleCombatBuilding9BE84C814B1A5B1A2D71CF8CED6DE805.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/HoleCombatContent/HoleCombatBuilding.uasset'
+[2022.07.09-19.15.26:092][218]AssetCheck: New page: Asset Save: HoleCombatBuilding
+[2022.07.09-19.15.26:092][218]LogContentValidation: Display: Validating Blueprint /Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding
+[2022.07.09-19.15.53:068][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.07.09-19.15.53:091][421]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest_Auto6
+[2022.07.09-19.15.53:091][421]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/RoadRunner_HoleTest_Auto68C3290C5434693DF738B4596F9C43607.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/Autosaves/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest_Auto6.umap'
+[2022.07.09-19.15.53:097][421]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest' took 0.129
+[2022.07.09-19.15.53:097][421]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.129
+[2022.07.09-19.16.35:931][929]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.16.35:936][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.09-19.16.35:936][929]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:16:35 AM)
+[2022.07.09-19.16.35:937][929]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.16.35:951][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014188s)
+[2022.07.09-19.16.35:951][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.014287s)
+[2022.07.09-19.16.35:951][929]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.16.35:951][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.16.35:951][929]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.16.35:952][929]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2022.07.09-19.16.36:029][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.07.09-19.16.36:031][929]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.07.09-19.16.36:031][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.16.36:031][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.16.36:031][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.16.36:031][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.16.36:031][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.16.36:031][929]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.16.36:031][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.16.36:031][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.16.36:031][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.16.36:031][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.16.36:031][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.16.36:056][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.16.36:069][929]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.16.36:069][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.16.36:069][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.16.36:069][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.16.36:070][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2022.07.09-19.16.36:070][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2022.07.09-19.16.36:071][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2022.07.09-19.16.36:071][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2022.07.09-19.16.36:071][929]LogInit: FAudioDevice initialized.
+[2022.07.09-19.16.36:071][929]LogAudio: Display: Audio Device (ID: 35) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.16.36:080][929]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.16.36:081][929]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.16.36
+[2022.07.09-19.16.36:081][929]LogWorld: Bringing up level for play took: 0.001166
+[2022.07.09-19.16.36:082][929]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2022.07.09-19.16.36:130][929]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.16.36:130][929]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.16.36:130][929]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.16.36:130][929]PIE: Server logged in
+[2022.07.09-19.16.36:131][929]PIE: Play in editor total start time 0.195 seconds.
+[2022.07.09-19.16.36:168][929]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.16.39:146][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.16.39:146][ 94]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.16.39:147][ 94]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.16.39:148][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.16.39:166][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.16.39:173][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.16.39:250][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.16.39:250][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.07.09-19.16.39:251][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.07.09-19.16.39:259][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.07.09-19.16.39:295][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.07.09-19.17.03:333][291]LogDerivedDataCache: C:/Users/stalw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.043 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.09-19.19.19:539][119]LogContentBrowser: Deferred new asset file creation: HoleCombatBuilding1
+[2022.07.09-19.19.19:556][119]LogContentBrowser: Creating deferred item: HoleCombatBuilding1
+[2022.07.09-19.19.19:590][120]LogContentBrowser: Renaming the item being created (Deferred Item: HoleCombatBuilding1).
+[2022.07.09-19.19.24:573][375]LogContentBrowser: Attempting asset rename: HoleCombatBuilding1 -> HoleCombatBuilding2
+[2022.07.09-19.19.24:663][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.07.09-19.19.24:674][375]LogContentBrowser: End creating deferred item HoleCombatBuilding1
+[2022.07.09-19.19.27:048][483]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HoleCombatContent/HoleCombatBuilding2.HoleCombatBuilding2
+[2022.07.09-19.19.27:048][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.19.30:867][661]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.19.30:867][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.19.33:388][767]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.09-19.19.33:388][767]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.19.33:389][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.19.43:783][293]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.09-19.19.43:783][293]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.19.43:783][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.19.43:830][293]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HoleCombatContent/HoleCombatBuilding2.HoleCombatBuilding2
+[2022.07.09-19.19.43:831][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.19.47:740][492]LogViewport: Scene viewport resized to 1525x1277, mode Windowed.
+[2022.07.09-19.20.21:534][928]BlueprintLog: New page: Compile HoleCombatBuilding2
+[2022.07.09-19.20.21:692][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.07.09-19.20.22:216][945]LogSavePackage: Moving output files for package: /Game/HoleCombatContent/HoleCombatBuilding2
+[2022.07.09-19.20.22:216][945]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/HoleCombatBuilding2956E0C954CFD9EAB764794BAC4AE7BD5.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/HoleCombatContent/HoleCombatBuilding2.uasset'
+[2022.07.09-19.20.22:236][945]AssetCheck: New page: Asset Save: HoleCombatBuilding2
+[2022.07.09-19.20.22:236][945]LogContentValidation: Display: Validating Blueprint /Game/HoleCombatContent/HoleCombatBuilding2.HoleCombatBuilding2
+[2022.07.09-19.20.41:044][784]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.09-19.20.46:835][ 17]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.20.46:840][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.09-19.20.46:841][ 17]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:20:46 AM)
+[2022.07.09-19.20.46:841][ 17]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.20.46:850][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009498s)
+[2022.07.09-19.20.46:850][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.009603s)
+[2022.07.09-19.20.46:851][ 17]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.20.46:851][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.20.46:851][ 17]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.20.46:851][ 17]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2022.07.09-19.20.46:977][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.07.09-19.20.46:990][ 17]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.07.09-19.20.46:990][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.20.46:990][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.20.46:990][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.20.46:990][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.20.46:990][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.20.46:990][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.20.46:990][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.20.46:990][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.20.46:990][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.20.46:990][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.20.46:990][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.20.46:992][ 17]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.20.47:005][ 17]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.20.47:005][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.20.47:005][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.20.47:005][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.20.47:006][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.07.09-19.20.47:006][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.07.09-19.20.47:008][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.07.09-19.20.47:008][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.07.09-19.20.47:008][ 17]LogInit: FAudioDevice initialized.
+[2022.07.09-19.20.47:008][ 17]LogAudio: Display: Audio Device (ID: 36) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.20.47:020][ 17]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.20.47:021][ 17]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.20.47
+[2022.07.09-19.20.47:021][ 17]LogWorld: Bringing up level for play took: 0.001148
+[2022.07.09-19.20.47:023][ 17]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2022.07.09-19.20.47:067][ 17]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.20.47:067][ 17]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.20.47:067][ 17]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.20.47:067][ 17]PIE: Server logged in
+[2022.07.09-19.20.47:068][ 17]PIE: Play in editor total start time 0.228 seconds.
+[2022.07.09-19.20.47:104][ 17]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.21.03:525][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.21.03:525][854]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.21.03:527][854]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.21.03:528][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.21.03:553][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.21.03:559][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.21.03:626][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.09-19.21.03:628][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.07.09-19.21.03:629][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.07.09-19.21.03:632][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.21.03:636][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.07.09-19.21.03:675][855]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.07.09-19.26.13:473][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.07.09-19.26.13:498][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest_Auto7
+[2022.07.09-19.26.13:498][811]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/RoadRunner_HoleTest_Auto7EB86E3C2463822DB046378BE1E122AC5.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/Autosaves/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest_Auto7.umap'
+[2022.07.09-19.26.13:505][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest' took 0.109
+[2022.07.09-19.26.13:505][811]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.109
+[2022.07.09-19.39.05:078][422]LogViewport: Scene viewport resized to 1525x1275, mode Windowed.
+[2022.07.09-19.39.21:159][236]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.09-19.40.59:642][926]BlueprintLog: New page: Compile HoleCombatBuilding
+[2022.07.09-19.40.59:758][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.07.09-19.41.00:723][961]LogSavePackage: Moving output files for package: /Game/HoleCombatContent/HoleCombatBuilding
+[2022.07.09-19.41.00:724][961]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/HoleCombatBuildingC63D38EA493E3DB67139C789282803F4.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/HoleCombatContent/HoleCombatBuilding.uasset'
+[2022.07.09-19.41.00:750][961]AssetCheck: New page: Asset Save: HoleCombatBuilding
+[2022.07.09-19.41.00:750][961]LogContentValidation: Display: Validating Blueprint /Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding
+[2022.07.09-19.41.18:661][811]BlueprintLog: New page: Compile HoleCombatBuilding2
+[2022.07.09-19.41.18:771][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.09-19.41.19:237][826]LogSavePackage: Moving output files for package: /Game/HoleCombatContent/HoleCombatBuilding2
+[2022.07.09-19.41.19:238][826]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/HoleCombatBuilding221AFDD554E256CD3D32C2694E1E7190B.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/HoleCombatContent/HoleCombatBuilding2.uasset'
+[2022.07.09-19.41.19:262][826]AssetCheck: New page: Asset Save: HoleCombatBuilding2
+[2022.07.09-19.41.19:262][826]LogContentValidation: Display: Validating Blueprint /Game/HoleCombatContent/HoleCombatBuilding2.HoleCombatBuilding2
+[2022.07.09-19.41.40:426][796]BlueprintLog: New page: Compile HoleCombatBuilding
+[2022.07.09-19.41.40:529][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.07.09-19.41.40:971][810]LogSavePackage: Moving output files for package: /Game/HoleCombatContent/HoleCombatBuilding
+[2022.07.09-19.41.40:971][810]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/HoleCombatBuildingCEB0B326419FCA29F3819B9F66E1126B.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/HoleCombatContent/HoleCombatBuilding.uasset'
+[2022.07.09-19.41.40:996][810]AssetCheck: New page: Asset Save: HoleCombatBuilding
+[2022.07.09-19.41.40:996][810]LogContentValidation: Display: Validating Blueprint /Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding
+[2022.07.09-19.41.41:910][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.41.41:916][852]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.09-19.41.41:989][852]LogPlayLevel: [PlayLevel] Compiling BP_LevelManagerBase before play...
+[2022.07.09-19.41.42:200][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.07.09-19.41.42:209][852]LogPlayLevel: PlayLevel: Blueprint regeneration took 293 ms (1 blueprints)
+[2022.07.09-19.41.42:209][852]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:41:42 AM)
+[2022.07.09-19.41.42:209][852]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.41.42:216][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006344s)
+[2022.07.09-19.41.42:216][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.006418s)
+[2022.07.09-19.41.42:216][852]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.41.42:216][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.41.42:216][852]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.41.42:216][852]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2022.07.09-19.41.42:281][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.07.09-19.41.42:283][852]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.07.09-19.41.42:283][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.41.42:283][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.41.42:283][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.41.42:283][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.41.42:283][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.41.42:283][852]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.41.42:283][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.41.42:283][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.41.42:284][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.41.42:284][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.41.42:284][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.41.42:286][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.41.42:298][852]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.41.42:299][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.41.42:299][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.41.42:299][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.41.42:299][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2022.07.09-19.41.42:299][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2022.07.09-19.41.42:300][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2022.07.09-19.41.42:300][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2022.07.09-19.41.42:300][852]LogInit: FAudioDevice initialized.
+[2022.07.09-19.41.42:300][852]LogAudio: Display: Audio Device (ID: 37) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.41.42:314][852]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.41.42:315][852]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.41.42
+[2022.07.09-19.41.42:315][852]LogWorld: Bringing up level for play took: 0.001388
+[2022.07.09-19.41.42:317][852]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2022.07.09-19.41.42:360][852]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.41.42:360][852]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.41.42:360][852]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.41.42:360][852]PIE: Server logged in
+[2022.07.09-19.41.42:361][852]PIE: Play in editor total start time 0.445 seconds.
+[2022.07.09-19.41.42:367][852]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.41.49:273][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.41.49:273][248]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.41.49:274][248]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.41.49:275][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.41.49:296][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.41.49:302][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.41.49:367][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.41.49:368][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.07.09-19.41.49:369][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.07.09-19.41.49:376][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.07.09-19.41.49:412][249]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.07.09-19.42.21:779][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.09-19.42.21:802][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest_Auto8
+[2022.07.09-19.42.21:802][829]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/RoadRunner_HoleTest_Auto87DD775FE4D3651632DF556915D559530.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/Autosaves/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest_Auto8.umap'
+[2022.07.09-19.42.21:808][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest' took 0.096
+[2022.07.09-19.42.21:808][829]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2022.07.09-19.42.21:810][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EndlessRunnerCreator/CommonAssets/Blueprints/Game/BP_LevelManagerBase] ([2] browsable assets)...
+[2022.07.09-19.42.21:810][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/EndlessRunnerCreator/CommonAssets/Blueprints/Game/BP_LevelManagerBase]
+[2022.07.09-19.42.21:854][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EndlessRunnerCreator/CommonAssets/Blueprints/Game/BP_LevelManagerBase_Auto8
+[2022.07.09-19.42.21:854][829]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/BP_LevelManagerBase_Auto8335DE03244C6C985805736ACE6128792.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/Autosaves/Game/EndlessRunnerCreator/CommonAssets/Blueprints/Game/BP_LevelManagerBase_Auto8.uasset'
+[2022.07.09-19.42.21:855][829]LogFileHelpers: Auto-saving content packages took 0.047
+[2022.07.09-19.43.39:408][536]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.43.39:414][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.09-19.43.39:415][536]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:43:39 AM)
+[2022.07.09-19.43.39:415][536]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.43.39:422][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007737s)
+[2022.07.09-19.43.39:423][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.007889s)
+[2022.07.09-19.43.39:423][536]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.43.39:423][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.43.39:424][536]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.43.39:424][536]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2022.07.09-19.43.39:499][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.09-19.43.39:505][536]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.07.09-19.43.39:505][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.43.39:506][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.43.39:506][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.43.39:506][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.43.39:506][536]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.43.39:506][536]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.43.39:506][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.43.39:506][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.43.39:506][536]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.43.39:506][536]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.43.39:506][536]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.43.39:508][536]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.43.39:520][536]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.43.39:520][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.43.39:520][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.43.39:520][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.43.39:520][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.07.09-19.43.39:521][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2022.07.09-19.43.39:522][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.07.09-19.43.39:522][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.07.09-19.43.39:522][536]LogInit: FAudioDevice initialized.
+[2022.07.09-19.43.39:522][536]LogAudio: Display: Audio Device (ID: 38) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.43.39:528][536]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.43.39:529][536]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.43.39
+[2022.07.09-19.43.39:530][536]LogWorld: Bringing up level for play took: 0.001081
+[2022.07.09-19.43.39:531][536]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2022.07.09-19.43.39:573][536]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.43.39:573][536]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.43.39:573][536]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.43.39:574][536]PIE: Server logged in
+[2022.07.09-19.43.39:574][536]PIE: Play in editor total start time 0.16 seconds.
+[2022.07.09-19.43.39:610][536]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.43.45:793][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.43.45:793][889]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.43.45:794][889]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.43.45:794][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.43.45:816][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.43.45:821][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.43.45:888][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.43.45:889][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.07.09-19.43.45:890][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.07.09-19.43.45:910][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.09-19.43.45:967][890]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.07.09-19.43.51:066][133]BlueprintLog: New page: Compile HoleCombatBuilding
+[2022.07.09-19.43.51:172][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.07.09-19.43.51:646][148]LogSavePackage: Moving output files for package: /Game/HoleCombatContent/HoleCombatBuilding
+[2022.07.09-19.43.51:647][148]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/HoleCombatBuildingDCF5DB6649A4DCAB22F65CAE65158094.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/HoleCombatContent/HoleCombatBuilding.uasset'
+[2022.07.09-19.43.51:671][148]AssetCheck: New page: Asset Save: HoleCombatBuilding
+[2022.07.09-19.43.51:671][148]LogContentValidation: Display: Validating Blueprint /Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding
+[2022.07.09-19.43.52:993][209]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.43.52:999][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.09-19.43.52:999][209]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:43:52 AM)
+[2022.07.09-19.43.52:999][209]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.43.53:008][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009303s)
+[2022.07.09-19.43.53:008][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.009393s)
+[2022.07.09-19.43.53:008][209]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.43.53:009][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.43.53:009][209]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.43.53:009][209]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2022.07.09-19.43.53:076][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.07.09-19.43.53:081][209]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.07.09-19.43.53:081][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.43.53:081][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.43.53:081][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.43.53:081][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.43.53:081][209]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.43.53:081][209]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.43.53:081][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.43.53:081][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.43.53:082][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.43.53:082][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.43.53:082][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.43.53:083][209]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.43.53:095][209]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.43.53:096][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.43.53:096][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.43.53:096][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.43.53:096][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2022.07.09-19.43.53:096][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2022.07.09-19.43.53:098][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2022.07.09-19.43.53:098][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2022.07.09-19.43.53:098][209]LogInit: FAudioDevice initialized.
+[2022.07.09-19.43.53:098][209]LogAudio: Display: Audio Device (ID: 39) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.43.53:108][209]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.43.53:109][209]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.43.53
+[2022.07.09-19.43.53:109][209]LogWorld: Bringing up level for play took: 0.001149
+[2022.07.09-19.43.53:110][209]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2022.07.09-19.43.53:153][209]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.43.53:154][209]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.43.53:154][209]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.43.53:154][209]PIE: Server logged in
+[2022.07.09-19.43.53:154][209]PIE: Play in editor total start time 0.156 seconds.
+[2022.07.09-19.43.53:191][209]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.43.54:783][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.43.54:783][299]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.43.54:784][299]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.43.54:785][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.43.54:804][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.43.54:810][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.43.54:875][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.09-19.43.54:876][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.07.09-19.43.54:877][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.07.09-19.43.54:880][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.43.54:884][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.07.09-19.43.54:921][300]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.07.09-19.43.59:060][498]BlueprintLog: New page: Compile HoleCombatBuilding
+[2022.07.09-19.43.59:164][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.07.09-19.43.59:629][513]LogSavePackage: Moving output files for package: /Game/HoleCombatContent/HoleCombatBuilding
+[2022.07.09-19.43.59:630][513]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/HoleCombatBuilding4E79D0744E20C617E0F9D6893A6687E2.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/HoleCombatContent/HoleCombatBuilding.uasset'
+[2022.07.09-19.43.59:654][513]AssetCheck: New page: Asset Save: HoleCombatBuilding
+[2022.07.09-19.43.59:654][513]LogContentValidation: Display: Validating Blueprint /Game/HoleCombatContent/HoleCombatBuilding.HoleCombatBuilding
+[2022.07.09-19.44.00:971][576]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.09-19.44.00:976][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.09-19.44.00:976][576]PIE: New page: PIE session: RoadRunner_HoleTest (Jul 9, 2022, 11:44:00 AM)
+[2022.07.09-19.44.00:976][576]LogPlayLevel: Creating play world package: /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.44.00:984][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007792s)
+[2022.07.09-19.44.00:984][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest to /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest (0.007880s)
+[2022.07.09-19.44.00:984][576]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.09-19.44.00:984][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.09-19.44.00:984][576]LogAIModule: Creating AISystem for world RoadRunner_HoleTest
+[2022.07.09-19.44.00:985][576]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2022.07.09-19.44.01:054][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.07.09-19.44.01:058][576]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.07.09-19.44.01:059][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.09-19.44.01:059][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.09-19.44.01:059][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.09-19.44.01:059][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.09-19.44.01:059][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.09-19.44.01:059][576]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.09-19.44.01:059][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.09-19.44.01:059][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.09-19.44.01:059][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.09-19.44.01:059][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.09-19.44.01:059][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.09-19.44.01:061][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.09-19.44.01:073][576]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.07.09-19.44.01:073][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.09-19.44.01:073][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.09-19.44.01:073][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.09-19.44.01:073][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2022.07.09-19.44.01:073][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2022.07.09-19.44.01:075][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2022.07.09-19.44.01:075][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2022.07.09-19.44.01:075][576]LogInit: FAudioDevice initialized.
+[2022.07.09-19.44.01:075][576]LogAudio: Display: Audio Device (ID: 40) registered with world 'RoadRunner_HoleTest'.
+[2022.07.09-19.44.01:087][576]LogLoad: Game class is 'BP_GameModeRoadRunner_C'
+[2022.07.09-19.44.01:088][576]LogWorld: Bringing World /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest.RoadRunner_HoleTest up for play (max tick rate 60) at 2022.07.09-15.44.01
+[2022.07.09-19.44.01:089][576]LogWorld: Bringing up level for play took: 0.001204
+[2022.07.09-19.44.01:090][576]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2022.07.09-19.44.01:134][576]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.07.09-19.44.01:134][576]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.07.09-19.44.01:134][576]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.07.09-19.44.01:134][576]PIE: Server logged in
+[2022.07.09-19.44.01:135][576]PIE: Play in editor total start time 0.159 seconds.
+[2022.07.09-19.44.01:169][576]LogAudio: Warning: Detected orphaned looping sound 'BGMusic_Cue_Audio'.
+[2022.07.09-19.44.07:243][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.44.07:243][929]LogWorld: BeginTearingDown for /Game/EndlessRunnerCreator/RoadRunner/Maps/UEDPIE_0_RoadRunner_HoleTest
+[2022.07.09-19.44.07:243][929]LogWorld: UWorld::CleanupWorld for RoadRunner_HoleTest, bSessionEnded=true, bCleanupResources=true
+[2022.07.09-19.44.07:244][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.44.07:264][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.09-19.44.07:269][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.09-19.44.07:334][929]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.09-19.44.07:334][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.07.09-19.44.07:336][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.07.09-19.44.07:339][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.09-19.44.07:343][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.09-19.44.07:378][930]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.07.09-19.44.22:972][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.09-19.44.23:074][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.09-19.44.23:095][674]LogSavePackage: Moving output files for package: /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest
+[2022.07.09-19.44.23:096][674]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/RoadRunner_HoleTest9C5DB99F4C7218E9A752558DA1849C6F.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.umap'
+[2022.07.09-19.44.23:105][674]LogFileHelpers: Saving map 'RoadRunner_HoleTest' took 0.096
+[2022.07.09-19.44.23:150][674]LogSavePackage: Moving output files for package: /Game/EndlessRunnerCreator/CommonAssets/Blueprints/Game/BP_LevelManagerBase
+[2022.07.09-19.44.23:151][674]LogSavePackage: Moving '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Saved/BP_LevelManagerBaseEDA54F7E48DD891C8F2A588A63C64CFE.tmp' to '../../../../../../Users/stalw/Documents/GitHub/HoleCombatTheGame/HoleCombat/Content/EndlessRunnerCreator/CommonAssets/Blueprints/Game/BP_LevelManagerBase.uasset'
+[2022.07.09-19.44.23:172][674]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.09-19.44.23:172][674]LogContentValidation: Display: Validating Blueprint /Game/EndlessRunnerCreator/CommonAssets/Blueprints/Game/BP_LevelManagerBase.BP_LevelManagerBase
+[2022.07.09-19.44.23:172][674]LogContentValidation: Display: Validating World /Game/EndlessRunnerCreator/RoadRunner/Maps/RoadRunner_HoleTest.RoadRunner_HoleTest
